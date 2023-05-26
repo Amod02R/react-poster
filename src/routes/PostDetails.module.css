@@ -1,0 +1,20 @@
+.post {
+  align-content: center;
+  padding: 1rem;
+  width: 30rem;
+  background-color: rgb(206, 165, 245);
+}
+
+.author {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.desc {
+  white-space: pre-wrap;
+  font-size: 1.25rem;
+  margin: 0.25rem 0 0 0;
+  font-style: italic;
+}
